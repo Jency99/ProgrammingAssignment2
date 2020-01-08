@@ -100,7 +100,7 @@ In order to complete this assignment, you must do the following:
 5.  Submit to Coursera the URL to your GitHub repository that contains
     the completed R code for the assignment.
     
-    SHA-1 hash
+    SHA-1 hash  0bc1a78bb65d86046026e0faa5abde5a4604a782
     
 
 ### Grading
